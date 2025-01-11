@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "js",
+    "rootDir": "src", // Specify the root directory of input files
+    "target": "ES2021",
+    "allowJs": true,
+    "noImplicitAny": false,
+    "noEmitOnError": false,
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
